@@ -35,7 +35,7 @@ This repository contains a Data Mining project developed as part of the **DMI01 
 
 ## Usage Notes
 
-- The file `synthetische_daten.csv` is **not included** in the repository due to data size and compliance considerations.
+- The file `synthetische_daten.csv` is **included** in the repository.
 - When using your own dataset, make sure to update file paths in the notebook accordingly.
 - If deploying this pipeline with real data or integrating LLMs, consider applicable data privacy regulations and the **EU AI Act**.
 
